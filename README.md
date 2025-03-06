@@ -56,17 +56,27 @@ Di sini, fungsi dipanggil dengan berat paket 6 kg, jarak 15 km, dan pengiriman e
 <img width="170" alt="Image" src="https://github.com/user-attachments/assets/39e55708-4b90-4f96-ae18-734385d78011" />
 
 Hasil Output yang kita dapatkan Bahwa nilai:
+
     - Berat = 6 kg (lebih dari 5 kg, kena tambahan Rp 5.000).
+    
     - Jarak = 15 km (lebih dari 10 km, kena tambahan Rp 8.000).
+    
     - Express = True (kena tambahan Rp 20.000).
+    
     - Member = True (diskon 10%).
 
 Langkah perhitungan biaya:
+
     - Biaya dasar = Rp 10.000
+    
     - Tambahan berat > 5 kg = Rp 5.000 → Total = Rp 15.000
+    
     - Tambahan jarak > 10 km = Rp 8.000 → Total = Rp 23.000
+    
     - Tambahan layanan express = Rp 20.000 → Total = Rp 43.000
+    
     - Diskon 10% untuk member → 10% dari 43.000 = 4.300
+    
     - Total setelah diskon: 43.000 - 4.300 = Rp 38.700
 
 ## kesimpulan
