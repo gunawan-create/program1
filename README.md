@@ -10,9 +10,13 @@ Berikut adalah penjelasan terperinci tentang fungsi hitung_biaya_pengiriman bese
 
 ### Step 1
 dalam program hitung_biaya_pengiriman didefinisikan dengan empat parameter:
+
     - berat: Berat paket dalam kilogram.
+    
     - jarak: Jarak pengiriman dalam kilometer.
+    
     - express: Boolean (default False), jika bernilai True, menunjukkan bahwa pengiriman adalah layanan express.
+    
     - member: Boolean (default False), jika bernilai True, menunjukkan bahwa pelanggan adalah member.
 
 ![Image](https://github.com/user-attachments/assets/c58362a8-eb2b-4ee8-be85-d2a7be040d03)
